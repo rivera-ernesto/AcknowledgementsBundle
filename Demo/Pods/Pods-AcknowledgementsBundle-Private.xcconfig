@@ -1,0 +1,5 @@
+#include "Pods-AcknowledgementsBundle.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/AcknowledgementsBundle" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AcknowledgementsBundle"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}
