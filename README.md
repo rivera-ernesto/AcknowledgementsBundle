@@ -7,7 +7,7 @@ Easily add a Settings.bundle with CocoaPods acknowledgements to your iOS App.
 
 ## Installation
 
-Add `pod 'NBULog'` to your [CocoaPods](http://cocoapods.org)' [Podfile](http://docs.cocoapods.org/podfile.html):
+Add `pod 'AcknowledgementsBundle'` to your [CocoaPods](http://cocoapods.org)' [Podfile](http://docs.cocoapods.org/podfile.html):
 
 ```ruby
 platform :ios
