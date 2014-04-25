@@ -1,7 +1,7 @@
 AcknowledgementsBundle
 ======================
 
-Easily add a Settings.bundle with CocoaPods acknowledgements to your iOS App.
+Easily add a Settings.bundle with [CocoaPods](http://cocoapods.org)' acknowledgements to your iOS App.
 
 ![Screenshot 1](http://rivera-ernesto.github.io/AcknowledgementsBundle/images/screenshot1.png)　![Screenshot 2](http://rivera-ernesto.github.io/AcknowledgementsBundle/images/screenshot2.png)
 
