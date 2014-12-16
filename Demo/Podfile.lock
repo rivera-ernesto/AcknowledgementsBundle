@@ -1,10 +1,10 @@
 PODS:
-  - AcknowledgementsBundle (0.0.1)
+  - AcknowledgementsBundle (0.0.2)
 
 DEPENDENCIES:
   - AcknowledgementsBundle
 
 SPEC CHECKSUMS:
-  AcknowledgementsBundle: 873d347db12a1ad3029a12859506bf675143c0a5
+  AcknowledgementsBundle: 1f07f66490db3ec5321fb44ace6a63fe26e83bce
 
-COCOAPODS: 0.29.0
+COCOAPODS: 0.35.0
